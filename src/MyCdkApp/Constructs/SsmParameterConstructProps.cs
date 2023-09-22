@@ -9,7 +9,6 @@ namespace MyCdkApp.Constructs
 {
     internal class SsmParameterConstructProps : StringParameterProps
     {
-
-
+//Test commit
     }
 }
