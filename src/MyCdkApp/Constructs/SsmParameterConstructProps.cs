@@ -9,5 +9,7 @@ namespace MyCdkApp.Constructs
 {
     internal class SsmParameterConstructProps : StringParameterProps
     {
+
+
     }
 }
